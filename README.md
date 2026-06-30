@@ -31,24 +31,7 @@ todo-list-app/
 ├── index.js
 └── README.md
 
-⚙️ How to Run Locally
-
-
-Clone this repository
-
-
-bash   git clone https://github.com/sreeahillan/todo-list-app.git
-
-
-Navigate into the project folder
-
-
-bash   cd todo-list-app
-
-
-Open index.html in your browser (or use the Live Server extension in VS Code)
-
-
+ 
 🔮 Future Improvements
 
 
