@@ -24,6 +24,7 @@
   color: #2d3a1f;
   display: flex;
   gap: 10px;
+  justify-content: center;
   align-items: center;
   margin-bottom: 20px;
 }
@@ -100,4 +101,8 @@ ul li span {
 ul li span:hover {
   background-color: #f4f1e8;
   border-radius: 50%;
+}
+div + p{
+  color: #ff0000;
+  text-align: center;
 }
